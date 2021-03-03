@@ -324,7 +324,7 @@ else
 	}
 	else
 	{
-		document.write ("No hay gatos sin pelo.");
+		document.write ("No hay gatos sin pelo."); 
 	}
 	
 }
